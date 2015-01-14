@@ -2,7 +2,7 @@
 public class Stack {
 	
 	private Node head;
-	private int min;
+	private int min = 0;
 	
 	/**
 	 * Konstruktor bez parametara
